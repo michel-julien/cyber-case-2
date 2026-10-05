@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+*.log
+.idea/
+postgres_data/
+local_backups/
+*.dump
+.neon
+.env.local
+node_modules/

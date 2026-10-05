@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "1234qwer",
+      "role": "admin"
+    },
+    {
+      "username": "titi",
+      "password": "@AvJjI#sUR@8y+vrAip&",
+      "role": "user"
+    },
+    {
+      "username": "tata",
+      "password": "cb#8C@+nr6mu9srlZvZ*",
+      "role": "user"
+    }
+  ]
+}
